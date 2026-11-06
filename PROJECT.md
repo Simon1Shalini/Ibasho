@@ -1,5 +1,11 @@
 # Project: Ibasho
 
+## Claude's addition — 0. Why this exists
+
+> Drafted by Claude from the creator's own words. She should rewrite it in her voice.
+
+Many people of the creator's generation cannot afford the homes, holidays and lives they imagined. Ibasho is a safe haven where they can live in that imagined world, built first for herself: a place to tell her story and a world built on her beliefs about how people coexist. The affordability point is her observation and remains a hypothesis until sourced. The economy is a long-term question, not a starting feature. Check new features against this section.
+
 ## 1. Purpose
 
 Ibasho is a browser-based virtual place designed around belonging, shared experiences and the freedom to shape a world together.

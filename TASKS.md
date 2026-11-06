@@ -75,3 +75,7 @@ A living checklist. Keep the next step small and update this file when something
 ## Working rule
 
 Work on one small task at a time. A task is complete only when it has been run and tested—not merely when code has been generated.
+
+### Claude's addition
+
+No new planning documents until something renders in a browser.

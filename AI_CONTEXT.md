@@ -55,6 +55,12 @@ Do not start with a large map, virtual currency, marketplace or complex society 
 - Do not introduce paid services or APIs without explaining why they are needed and offering a free or lower-cost alternative where practical.
 - Never ask the creator to paste passwords, personal access tokens or API secrets into chat.
 
+## Claude's addition — who does what
+
+- **ChatGPT** builds: it writes and explains code.
+- **Claude** reviews and advises; it does not build unless asked.
+- Text added by Claude sits under a heading beginning "Claude's addition", and by ChatGPT under "ChatGPT's addition". Commit messages start with [Claude] or [ChatGPT]. The creator decides what stays.
+
 ## Collaboration between AI assistants
 
 - GitHub is the source of truth; chat history is not the only record.
